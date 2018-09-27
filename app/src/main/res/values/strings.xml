@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FutureCalculator</string>
+    <string name="name">Enter Your Name</string>
+    <string name="sleep_time">Sleep Time Per Day</string>
+    <string name="work_time">Work Time Per Day</string>
+    <string name="waste_time">Waste Time Per Day</string>
+    <string name="food_break">Food Break Per Day</string>
+    <string name="submit">Submit</string>
+</resources>
